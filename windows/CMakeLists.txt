@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(flutter_complete_quide LANGUAGES CXX)
+project(flutter_complete_guide LANGUAGES CXX)
 
-set(BINARY_NAME "flutter_complete_quide")
+set(BINARY_NAME "flutter_complete_guide")
 
 cmake_policy(SET CMP0063 NEW)
 
